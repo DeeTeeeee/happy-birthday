@@ -1,13 +1,13 @@
-const nameGirl = 'Em';
+const nameGirl = '❤️';
 const giftUrl = 'http://nodemy.vn';
-const eventName = 'Chúc Mừng 20-10';
-const titleCard = 'Tặng người ấy';
-const contentCard = 'Chúc honey của anh 20/10 tràn ngập niềm vui và những nụ cười. Mong điều đẹp nhất sẽ đến với em trong hôm nay và cả những ngày sau';
+const eventName = 'Mở quà đi bé yêu';
+const titleCard = 'Dành cho Tường Vân';
+const contentCard = 'Chúc công chúa của anh sinh nhật vui vẻ. Chúc em ngày càng xinh đẹp, đáng yêu hơn. Đặc biệt là chúc em sẽ đạt được thành công với những kế hoạch trong tương lai. Và hi vọng chúng ta sẽ đón thêm nhiều sinh nhật cùng nhau nữa nha. Anh yêu em.';
 
 // phần dưới dành cho các bạn biết code, nếu muốn chỉnh ảnh đơn giản với base64
 // Cần hỗ trợ hãy liên hệ: 
 // Mr-Nam http://facebook.com/nam.nodemy
 // Các bạn muốn học lập trình thì tham gia Nhóm zalo tự học lập trình nhé: https://zalo.me/g/yhdkef092
-const giftImage = 'hot-girl.png';
+const giftImage = 'my-love.jpg';
 const base64 = '';
 const giftImageBase64 = "data:image/png;base64, " + base64;

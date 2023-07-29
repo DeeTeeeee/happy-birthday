@@ -38,8 +38,8 @@ html, body {
     width: 200px;
     height: 200px;
     margin: auto;
-    -webkit-animation: rotate 11s alternate linear infinite;
-            animation: rotate 11s alternate linear infinite;
+    -webkit-animation: rotate 5s alternate linear infinite;
+            animation: rotate 5s alternate linear infinite;
     cursor: pointer;
   }
   .present-box:hover {
@@ -149,7 +149,7 @@ html, body {
     border-width: 2px;
     background: #fff;
     margin: auto;
-    transform: translateZ(-2px) translateY(50px);
+    transform: translateZ(-2px) translateY(60px);
   }
   .present-box > .side.top .to:after {
     content: attr(data-before);
