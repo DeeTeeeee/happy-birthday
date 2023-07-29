@@ -2,7 +2,7 @@ const nameGirl = '❤️';
 const giftUrl = 'http://nodemy.vn';
 const eventName = 'Mở quà đi bé yêu';
 const titleCard = 'Dành cho Tường Vân';
-const contentCard = 'Chúc công chúa của anh sinh nhật vui vẻ. Chúc em ngày càng xinh đẹp, đáng yêu hơn. Đặc biệt là chúc em sẽ đạt được thành công với những kế hoạch trong tương lai. Và hi vọng chúng ta sẽ đón thêm nhiều sinh nhật cùng nhau nữa nha. Anh yêu em.';
+const contentCard = 'Chúc công chúa của anh sinh nhật vui vẻ. Chúc em luôn xinh đẹp và luôn đáng yêu. Đặc biệt là chúc em sẽ đạt được thành công với những kế hoạch trong tương lai. Và chúc cho chúng ta sẽ đón thêm nhiều sinh nhật cùng nhau nữa nha. Anh yêu em.';
 
 // phần dưới dành cho các bạn biết code, nếu muốn chỉnh ảnh đơn giản với base64
 // Cần hỗ trợ hãy liên hệ: 
