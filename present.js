@@ -21,12 +21,12 @@ function init() {
   var _giftLink, 
       _giftImg;
   
-  if (gift_url) {
-    _giftLink = document.createElement("a");
-    _giftLink.href = gift_url;
-    _giftLink.target = "_blank";
-    presentImage.appendChild(_giftLink);
-  }
+  // if (gift_url) {
+  //   _giftLink = document.createElement("a");
+  //   _giftLink.href = gift_url;
+  //   _giftLink.target = "_blank";
+  //   presentImage.appendChild(_giftLink);
+  // }
   
   if (gift_image_url) {
     _giftImg = document.createElement("img");
